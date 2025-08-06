@@ -10,13 +10,10 @@
 ## Índice
 
 1. [Descripción del Proyecto](#descripción-del-proyecto)
-2. [Estructura del Proyecto](#estructura-del-proyecto)
-3. [Ejemplos de Gráficos e Insights](#ejemplos-de-gráficos-e-insights)
-4. [Instrucciones para Ejecutar](#instrucciones-para-ejecutar)
-5. [Tecnologías Utilizadas](#tecnologías-utilizadas)
-6. [Personas Contribuyentes](#personas-contribuyentes)
-7. [Personas Desarrolladoras del Proyecto](#personas-desarrolladoras-del-proyecto)
-8. [Licencia](#licencia)
+2. [Tecnologías Utilizadas](#tecnologías-utilizadas)
+3. [Personas Contribuyentes](#personas-contribuyentes)
+4. [Personas Desarrolladoras del Proyecto](#personas-desarrolladoras-del-proyecto)
+5. [Licencia](#licencia)
 
 ---
 
