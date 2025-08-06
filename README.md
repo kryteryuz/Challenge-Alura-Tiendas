@@ -33,25 +33,6 @@ El propósito del análisis es identificar:
 
 ---
 
-## Estructura del Proyecto
-
-alura-store/
-│
-├── data/ # Archivos CSV con los datos de entrada
-│ ├── orders.csv
-│ ├── products.csv
-│ └── customers.csv
-│
-├── assets/ # Imágenes y recursos multimedia (gráficos y portada)
-│ └── ...
-│
-├── folium_map.html # Mapa interactivo generado con Folium
-│
-├── Alura_Store_Analysis.ipynb # Notebook principal del análisis
-│
-└── README.md # Este archivo
-
-
 ---
 
 ## Ejemplos de Gráficos e Insights
@@ -87,8 +68,6 @@ El tiempo de entrega promedio es de 6.2 días. La tienda **Store D** destaca con
 
 ### 🗺️ 6. Mapa interactivo de tiendas (Folium)
 Se generó un mapa con **Folium** para visualizar el desempeño por ubicación geográfica. Haz zoom, clic en los marcadores y explora los insights.
-
-🔗 [Ver el mapa interactivo](folium_map.html)
 
 ---
 
