@@ -33,44 +33,6 @@ El propósito del análisis es identificar:
 
 ---
 
----
-
-## Ejemplos de Gráficos e Insights
-
-### 🧾 1. Análisis de facturación por tienda
-Se identificaron tiendas con ingresos superiores a otras. Por ejemplo, la tienda **Store A** generó S/. 123,450.00, mientras que **Store C** solo alcanzó S/. 45,600.00.
-
-![Factura por tienda](assets/facturacion.png)
-
----
-
-### 🛒 2. Ventas por categoría
-Las categorías **Electrónica** y **Hogar** dominan en volumen de ventas, mientras que otras como **Juguetería** y **Libros** son marginales.
-
-![Ventas por categoría](assets/categorias.png)
-
----
-
-### ⭐ 3. Calificación promedio por tienda
-La tienda **Store B** destaca con una calificación promedio de **4.5**, mostrando un excelente nivel de satisfacción del cliente.
-
----
-
-### 🔼🔽 4. Productos más y menos vendidos
-Identificamos productos como “Auriculares Bluetooth” en el top de ventas, mientras que productos como “Webcam HD” apenas registraron movimiento.
-
----
-
-### 🚚 5. Envío promedio por tienda
-El tiempo de entrega promedio es de 6.2 días. La tienda **Store D** destaca con entregas más rápidas, de solo 4.8 días promedio.
-
----
-
-### 🗺️ 6. Mapa interactivo de tiendas (Folium)
-Se generó un mapa con **Folium** para visualizar el desempeño por ubicación geográfica. Haz zoom, clic en los marcadores y explora los insights.
-
----
-
 ## Tecnologías utilizadas
 
 - **Python 3**: Lenguaje principal.
