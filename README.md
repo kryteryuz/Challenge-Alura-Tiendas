@@ -1,7 +1,5 @@
 # Alura Store 📊🛍️
 
-![Portada](assets/alura-store-cover.png)
-
 ## Insignias
 
 [![Estado del Proyecto](https://img.shields.io/badge/estado-terminado-brightgreen)](https://github.com/bryanvera/alura-store)  
