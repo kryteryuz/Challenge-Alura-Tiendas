@@ -4,7 +4,7 @@
 
 ## Insignias
 
-[![Estado del Proyecto](https://img.shields.io/badge/estado-en%20desarrollo-blue)](https://github.com/tu_usuario/alura-store)  
+[![Estado del Proyecto](https://img.shields.io/badge/estado-terminado-brightgreen)](https://github.com/bryanvera/alura-store)  
 [![Licencia](https://img.shields.io/badge/licencia-MIT-green)](https://opensource.org/licenses/MIT)
 
 ## Índice
